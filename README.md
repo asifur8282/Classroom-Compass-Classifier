@@ -197,9 +197,9 @@ curl -X POST "http://127.0.0.1:8002/classify_students/" -F "files=@test\student_
 ### Usage Without Docker (Local Server)
 
 You can run the server locally without Docker by running `python model_server.py`. The `curl` command remains the same.
-<img src="images/image2.jpg" width="800" alt="Output Example"/>
+<img src="images/image2.png" width="800" alt="Output Example"/>
 
 ### Usage With Docker (Recommended)
 
 This shows the `docker run` command, the server logs, and the `curl` command in Git Bash all working together.
-<img src="images/image3.jpg" width="800" alt="Output Example"/>
+<img src="images/image3.png" width="800" alt="Output Example"/>
