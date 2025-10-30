@@ -1,0 +1,16 @@
+venv/
+*.venv/
+pycache/
+
+train/
+validate/
+test/
+images/
+
+.git/
+.gitignore
+.gitattributes
+
+Dockerfile
+.dockerignore
+README.md
