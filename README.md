@@ -55,7 +55,7 @@ This is the simplest path. The pre-trained `student_focus_classifier.keras` mode
 If you want to train the model on your own data, you can use the `model-trainer.py` script.
 
 **1. Dataset Notice**
-Due to privacy concerns, the original training, validation, and test datasets are not provided. The included model was trained on images of real people.
+Due to privacy concerns, the original training, validation, and test datasets are not provided. The included model was trained on images of actual students of Techno International New Town with their consent, but we cannot include those images here on github.
 
 **2. Create Your Dataset**
 You must provide your own dataset. The script expects the data to be in the following directory structure:
